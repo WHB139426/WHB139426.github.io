@@ -13,7 +13,7 @@ I am currently a second-year master's student at [CS Department, Fudan Universit
 
 Publications and Preprints
 ------
-### Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering. _[ACM Multimedia 2024]_ [[Paper]](https://arxiv.org/abs/2401.10711)
+### Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering. <span style="color: #ff6347;">_[ACM Multimedia 2024]_</span> [[Paper]](https://arxiv.org/abs/2401.10711)
 **Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
 <!---![image](../acmmm24-gcg.png)-->
   
