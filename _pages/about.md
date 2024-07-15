@@ -13,17 +13,17 @@ I am currently a second-year master's student at [CS Department, Fudan Universit
 
 Publications and Preprints
 ------
-### _Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering._ <span style="color: #14839c;">[ACM Multimedia 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10711)
+### _Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering._ <span style="color: #50ACC7;">[ACM Multimedia 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10711)
 **Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
 <!---![image](../acmmm24-gcg.png)-->
   
-### _Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge._ <span style="color: #14839c;">[ECCV 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10712) [[Code]](https://github.com/WHB139426/QA-Prompts)
+### _Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge._ <span style="color: #50ACC7;">[ECCV 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10712) [[Code]](https://github.com/WHB139426/QA-Prompts)
 **Haibo Wang**, Weifeng Ge. 
 
-### _Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration._ <span style="color: #14839c;">[CVPR 2024]</span> [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
+### _Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration._ <span style="color: #50ACC7;">[CVPR 2024]</span> [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
 Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. 
 
-### _IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking._ <span style="color: #14839c;">[CSCWD 2023]</span> [[Paper]](https://ieeexplore.ieee.org/document/10152562)
+### _IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking._ <span style="color: #50ACC7;">[CSCWD 2023]</span> [[Paper]](https://ieeexplore.ieee.org/document/10152562)
 **Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
 
 Experiences
