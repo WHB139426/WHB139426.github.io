@@ -21,7 +21,7 @@ Publications and Preprints
 **Haibi Wang**, Weifeng Ge. 
 
 ### Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration. _[CVPR 2024]_ [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
-Yixuan Sun*, Zhangyue Yin*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. 
+Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. 
 
 ### IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking. _[CSCWD 2023]_ [[Paper]](https://ieeexplore.ieee.org/document/10152562)
 **Haibi Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
