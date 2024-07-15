@@ -21,7 +21,7 @@ repository               : "WHB139426/WHB139426.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/wanghaibo.png"
+  avatar           : "wanghaibo.png"
   name             : "Haibo Wang"
   pronouns         : # example: "she/her"  
   bio              : "Master's student in Multimodal Learning."
