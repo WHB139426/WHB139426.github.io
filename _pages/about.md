@@ -11,8 +11,29 @@ I am currently a second-year master's student at CS Department, [Fudan Universit
 
 Publications and Preprints
 ------
+### Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering.
+
+  **Haibi Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
+  
+  ACM Multimedia 2024. 
+
+  
 ### Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge. 
 
-  **Haibi Wang**, Weifeng Ge. ECCV 2024. 
+  **Haibi Wang**, Weifeng Ge. 
+  
+  European Conference on Computer Vision (ECCV) 2024. 
 
   <!-- [[Paper]](https://arxiv.org/abs/2401.10712) / [[Code]](https://github.com/WHB139426/QA-Prompts) -->
+
+### Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration. 
+
+  Yixuan Sun*, Zhangyue Yin*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. 
+  
+  IEEE/CVF Computer Vision and Pattern Recognition (CVPR) 2024. 
+
+### IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking. 
+
+  **Haibi Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
+  
+  International Conference on Computer Supported Cooperative Work in Design (CSCWD) 2023
