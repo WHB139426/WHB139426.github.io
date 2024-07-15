@@ -14,11 +14,11 @@ I am currently a second-year master's student at [CS Department, Fudan Universit
 Publications and Preprints
 ------
 ### Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering. _[ACM Multimedia 2024]_ [[Paper]](https://arxiv.org/abs/2401.10711)
-**Haibi Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
+**Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
 <!---![image](../acmmm24-gcg.png)-->
   
 ### Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge. _[ECCV 2024]_ [[Paper]](https://arxiv.org/abs/2401.10712) / [[Code]](https://github.com/WHB139426/QA-Prompts)
-**Haibi Wang**, Weifeng Ge. 
+**Haibo Wang**, Weifeng Ge. 
 
 ### Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration. _[CVPR 2024]_ [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
 Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. 
