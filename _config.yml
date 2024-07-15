@@ -22,9 +22,9 @@ repository               : "WHB139426/WHB139426.github.io"
 author:
   # Biographic information
   avatar           : "wanghaibo.png"
-  name             : "Haibo Wang"
+  name             : "Haibo Wang (王海波)"
   pronouns         : # example: "she/her"  
-  bio              : "Master's student in Multimodal Learning."
+  # bio              : "Master's student in Multimodal Learning."
   location         : "Shanghai, China"
   employer         : "Fudan University"
   uri              : # URL
