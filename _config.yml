@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Haibo Wang / Site Title"
+title                    : "Haibo Wang / Personal Homepage"
 title_separator          : "-"
 name                     : &name "Haibo Wang"
 description              : &description "personal description"
