@@ -24,7 +24,7 @@ Publications and Preprints
 Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. 
 
 ### IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking. _[CSCWD 2023]_ [[Paper]](https://ieeexplore.ieee.org/document/10152562)
-**Haibi Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
+**Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
 
 Experiences
 ------
