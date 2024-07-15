@@ -11,28 +11,19 @@ I am currently a second-year master's student at CS Department, [Fudan Universit
 
 Publications and Preprints
 ------
-### Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering.
+### Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering. 
+### ACM Multimedia 2024. 
+**Haibi Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. [[Paper]](https://arxiv.org/abs/2401.10711)
 
-  **Haibi Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. [[Paper]](https://arxiv.org/abs/2401.10711)
   
-  ACM Multimedia 2024. 
-
-
 ### Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge. 
-
-  **Haibi Wang**, Weifeng Ge. [[Paper]](https://arxiv.org/abs/2401.10712) / [[Code]](https://github.com/WHB139426/QA-Prompts)
-  
-  European Conference on Computer Vision (ECCV) 2024. 
-
+### European Conference on Computer Vision (ECCV) 2024. 
+**Haibi Wang**, Weifeng Ge. [[Paper]](https://arxiv.org/abs/2401.10712) / [[Code]](https://github.com/WHB139426/QA-Prompts)
 
 ### Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration. 
-
-  Yixuan Sun*, Zhangyue Yin*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
-  
-  IEEE/CVF Computer Vision and Pattern Recognition (CVPR) 2024. 
+### IEEE/CVF Computer Vision and Pattern Recognition (CVPR) 2024. 
+Yixuan Sun*, Zhangyue Yin*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
 
 ### IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking. 
-
-  **Haibi Wang**, Ding Ding, Yuhao Liu, Chi Wang. [[Paper]](https://ieeexplore.ieee.org/document/10152562)
-  
-  International Conference on Computer Supported Cooperative Work in Design (CSCWD) 2023
+### International Conference on Computer Supported Cooperative Work in Design (CSCWD) 2023
+**Haibi Wang**, Ding Ding, Yuhao Liu, Chi Wang. [[Paper]](https://ieeexplore.ieee.org/document/10152562)
