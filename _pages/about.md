@@ -13,7 +13,7 @@ Publications and Preprints
 ------
 ### Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering. _[ACM Multimedia 2024]_ 
 **Haibi Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. [[Paper]](https://arxiv.org/abs/2401.10711)
-
+![image](../acmmm24-gcg.png)
   
 ### Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge. _[ECCV 2024]_
 **Haibi Wang**, Weifeng Ge. [[Paper]](https://arxiv.org/abs/2401.10712) / [[Code]](https://github.com/WHB139426/QA-Prompts)
