@@ -29,19 +29,21 @@ Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, 
 Experiences
 ------
 <div style="display: flex; align-items: center;">
-  <img src="../VT.png" alt="Virginia Tech Logo" style="width: 60px; height: 60px; margin-right: 20px;">
+  <img src="../VT.png" alt="Virginia Tech Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2024.05 -</b>, Summer Intern, Virginia Tech, advised by Prof. <a href="https://wilburone.github.io/">Lifu Huang</a>
   </div>
 </div>
+<br>
 <div style="display: flex; align-items: center;">
-  <img src="../FDU.png" alt="Fudan University Logo" style="width: 60px; height: 60px; margin-right: 20px;">
+  <img src="../FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2022.09 - 2025.06 (expected)</b>, Graduate Student, Fudan University, Shanghai.
   </div>
 </div>
+<br>
 <div style="display: flex; align-items: center;">
-  <img src="../seu.png" alt="Southeast University Logo" style="width: 60px; height: 60px; margin-right: 20px;">
+  <img src="../seu.png" alt="Southeast University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2018.09 - 2022.06</b>, Undergraduate Student, Southeast University, Nanjing.
   </div>
