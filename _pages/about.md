@@ -13,8 +13,8 @@ I am a second-year Master's student at [CS Department, Fudan University](https:/
 
 News
 ------
-- **_[2024.7] 🥰 One first-authored paper accepted by ACM MM 2024._**
-- **_[2024.7] 🎉 One first-authored paper accepted by ECCV 2024._**
+- **_[2024.7]_** 🥰 **_One first-authored paper accepted by ACM MM 2024._**
+- **_[2024.7]_** 🎉 **_One first-authored paper accepted by ECCV 2024._**
 
 
 Publications and Preprints
