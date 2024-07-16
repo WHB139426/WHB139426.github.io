@@ -19,7 +19,7 @@ News
 
 Publications and Preprints
 ------
-### _Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering._ <span style="color: #50ACC7;">[ACM Multimedia 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10711)
+### _Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering._ <span style="color: #50ACC7;">[ACM Multimedia 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10711) [[Code]](https://github.com/WHB139426/GCG)
 **Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
 <!---![image](../acmmm24-gcg.png)-->
   
