@@ -29,7 +29,7 @@ Publications and Preprints
 ### _Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration._ <span style="color: #50ACC7;">[CVPR 2024]</span> [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
 Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang.
 
-### _Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos._ <span style="color: #50ACC7;">[TCSVT 2024]</span>
+### _Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos._ <span style="color: #50ACC7;">[IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) 2024]</span>
 Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. 
 
 ### _IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking._ <span style="color: #50ACC7;">[CSCWD 2023]</span> [[Paper]](https://ieeexplore.ieee.org/document/10152562)
