@@ -40,7 +40,7 @@ Experiences
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2024.05 -</b>, Summer Intern, UC Davis, advised by Prof. <a href="https://wilburone.github.io/">Lifu Huang</a>
+    <b>2024.05 -</b>, Summer Intern, University of California, Davis, advised by Prof. <a href="https://wilburone.github.io/">Lifu Huang</a>
   </div>
 </div>
 
