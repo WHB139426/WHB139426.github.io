@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Master's student at [CS Department, Fudan University](https://cs.fudan.edu.cn/) advised by Prof. [Weifeng Ge](https://www.weifengge.net/). Previously, I received my Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **vision-language Reasoning** (Visual Question Answering, Multimodal Large Langauge Models, etc.). I'm currently working with Prof. <a href="https://wilburone.github.io/">Lifu Huang</a> on building Video Large Language Model with fine-grained temporal grounding capability.
+I am a second-year Master's student at [CS Department, Fudan University](https://cs.fudan.edu.cn/) advised by Prof. [Weifeng Ge](https://www.weifengge.net/). Previously, I received my Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Vision-Language Reasoning** (Visual Question Answering, Multimodal Large Langauge Models, etc.). I'm currently working with Prof. <a href="https://wilburone.github.io/">Lifu Huang</a> on building Video Large Language Model with fine-grained temporal grounding capability.
 
 > I am looking for a potential Ph.D. position enrolling in Fall 2025. Welcome to reach out to me if interested :)
 
