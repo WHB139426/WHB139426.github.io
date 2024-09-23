@@ -40,21 +40,21 @@ Education
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2024.05 -</b>, Summer Intern, University of California, Davis.
+    <b>2024.05 -</b>, Summer intern, University of California, Davis.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2022.09 - 2025.06 (expected)</b>, Graduate Student, Fudan University, Shanghai.
+    <b>2022.09 - 2025.06 (expected)</b>, Graduate student, Fudan University, Shanghai.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../seu.png" alt="Southeast University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2018.09 - 2022.06</b>, Undergraduate Student, Southeast University, Nanjing.
+    <b>2018.09 - 2022.06</b>, Undergraduate student, Southeast University, Nanjing.
   </div>
 </div>
 
