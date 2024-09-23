@@ -63,6 +63,10 @@ Experience
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../oppo.png" alt="OPPO" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
+    <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai
+  </div>
+</div>
+  <div>
     <b>2024.05 -</b>, OPPO AI Research.
   </div>
 </div>
