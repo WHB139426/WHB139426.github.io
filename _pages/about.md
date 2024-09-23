@@ -20,13 +20,13 @@ I am a second-year Master's student at [CS Department, Fudan University](https:/
 
 > I am looking for a potential Ph.D. position enrolling in Fall 2025. Welcome to reach out to me if interested :)
 
-# 🔥 News
+🔥 News
 ------
 - **_[2024.7]_** **_One first-authored paper accepted by ACM MM 2024._**
 - **_[2024.7]_** **_One first-authored paper accepted by ECCV 2024._**
 
 
-# 📝 Publications and Preprints
+📝 Publications and Preprints
 ------
 ### _Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering._ <span style="color: #50ACC7;">[ACM Multimedia 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10711) [[Code]](https://github.com/WHB139426/GCG)
 **Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
@@ -44,7 +44,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 ### _IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking._ <span style="color: #50ACC7;">[CSCWD 2023]</span> [[Paper]](https://ieeexplore.ieee.org/document/10152562)
 **Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
 
-# 📖 Educations
+📖 Educations
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
@@ -67,7 +67,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
   </div>
 </div>
 
-# 💻 Experience
+💻 Experience
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
