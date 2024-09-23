@@ -35,7 +35,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 ### _IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking._ <span style="color: #50ACC7;">[CSCWD 2023]</span> [[Paper]](https://ieeexplore.ieee.org/document/10152562)
 **Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
 
-Experiences
+Education
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
@@ -55,5 +55,14 @@ Experiences
   <img src="../seu.png" alt="Southeast University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2018.09 - 2022.06</b>, Undergraduate Student, Southeast University, Nanjing.
+  </div>
+</div>
+
+Experience
+------
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <img src="../oppo.png" alt="OPPO" style="width: 70px; height: 70px; margin-right: 20px;">
+  <div>
+    <b>2024.05 -</b>, OPPO AI Research.
   </div>
 </div>
