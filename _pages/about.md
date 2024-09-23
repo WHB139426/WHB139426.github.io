@@ -7,17 +7,26 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 I am a second-year Master's student at [CS Department, Fudan University](https://cs.fudan.edu.cn/) advised by Prof. [Weifeng Ge](https://www.weifengge.net/). Previously, I received my Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Vision-Language Reasoning** (Visual Question Answering, Multimodal Large Langauge Models, etc.). I'm currently working with Prof. <a href="https://wilburone.github.io/">Lifu Huang</a> on building Video Large Language Model with fine-grained temporal grounding capability.
 
 > I am looking for a potential Ph.D. position enrolling in Fall 2025. Welcome to reach out to me if interested :)
 
-News
+# 🔥 News
 ------
 - **_[2024.7]_** **_One first-authored paper accepted by ACM MM 2024._**
 - **_[2024.7]_** **_One first-authored paper accepted by ECCV 2024._**
 
 
-Publications and Preprints
+# 📝 Publications and Preprints
 ------
 ### _Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering._ <span style="color: #50ACC7;">[ACM Multimedia 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10711) [[Code]](https://github.com/WHB139426/GCG)
 **Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
@@ -35,7 +44,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 ### _IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking._ <span style="color: #50ACC7;">[CSCWD 2023]</span> [[Paper]](https://ieeexplore.ieee.org/document/10152562)
 **Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
 
-Education
+# 📖 Educations
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
@@ -58,7 +67,7 @@ Education
   </div>
 </div>
 
-Experience
+# 💻 Experience
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
@@ -66,3 +75,6 @@ Experience
     <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai
   </div>
 </div>
+
+<!-- # 🚌 Visitor Map -->
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1nRIFNSwVclwApwJhz16pZZAjy8G47awU92Eq0b1mQ8"></script>
