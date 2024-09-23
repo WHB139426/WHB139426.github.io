@@ -66,7 +66,3 @@ Experience
     <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai
   </div>
 </div>
-  <div>
-    <b>2024.05 -</b>, OPPO AI Research.
-  </div>
-</div>
