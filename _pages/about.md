@@ -28,7 +28,7 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 
 📝 Publications and Preprints
 ------
-### _Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models._ <span style="color: #50ACC7;">[Preprint]</span> [[Paper]](https://arxiv.org/abs/2401.10711) [[Code]](https://github.com/WHB139426/Grounded-Video-LLM)
+### _Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models._ <span style="color: #50ACC7;">[Preprint]</span> [[Code]](https://github.com/WHB139426/Grounded-Video-LLM)
 **Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
 
 ### _Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering._ <span style="color: #50ACC7;">[ACM Multimedia 2024]</span> [[Paper]](https://arxiv.org/abs/2401.10711) [[Code]](https://github.com/WHB139426/GCG)
