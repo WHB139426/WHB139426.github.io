@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -81,6 +75,3 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
   <div>
     <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai
 </div>
-
-<!-- # 🚌 Visitor Map -->
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=1nRIFNSwVclwApwJhz16pZZAjy8G47awU92Eq0b1mQ8"></script>
