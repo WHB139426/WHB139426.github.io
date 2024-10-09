@@ -41,6 +41,9 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 ### _IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking._ <span style="color: #50ACC7;">[CSCWD 2023]</span> [[Paper]](https://ieeexplore.ieee.org/document/10152562)
 **Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
 
+# 🎖 Honors and Awards
+- *2024.10*, China National Scholarship, (Top 1%).
+  
 👩‍💻 Academic Services
 ------
 - Reviewer: ICLR 2025.
