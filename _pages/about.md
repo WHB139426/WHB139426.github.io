@@ -14,11 +14,12 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 
 > I am looking for a potential Ph.D. position enrolling in Fall 2025. Welcome to reach out to me if interested :)
 
+<!--
 🔥 News
 ------
 - **_[2024.7]_** **_One first-authored paper accepted by ACM MM 2024._**
 - **_[2024.7]_** **_One first-authored paper accepted by ECCV 2024._**
-
+ -->
 
 📝 Publications and Preprints
 ------
@@ -52,13 +53,6 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 📖 Educations
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
-  <div>
-    <b>2024.05 -</b>, Summer intern, University of California, Davis.
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2022.09 - 2025.06 (expected)</b>, Graduate student, Fudan University, Shanghai.
@@ -74,6 +68,13 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 
 💻 Experience
 ------
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <div>
+    <b>2024.05 -</b>, Research intern, University of California, Davis.
+  </div>
+</div>
+
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
   <div>
