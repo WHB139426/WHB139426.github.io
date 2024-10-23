@@ -75,9 +75,10 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
   </div>
 </div>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0&cl=ffffff&w=a"></script>
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
   <div>
     <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai
 </div>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0&cl=ffffff&w=a"></script>
