@@ -88,4 +88,4 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 </div>
 
 ------
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0&cl=ffffff&w=a"></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=70&t=tt&d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
