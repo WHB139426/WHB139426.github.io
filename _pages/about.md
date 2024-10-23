@@ -90,4 +90,4 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 
 🗺️ Visits
 ------
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0'></script>
