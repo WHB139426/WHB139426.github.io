@@ -87,24 +87,6 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
     <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai
 </div>    
 
-
+Map
 ------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=250&t=n&d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0'></script>
