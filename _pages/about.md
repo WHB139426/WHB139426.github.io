@@ -75,7 +75,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 💻 Experience
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="../apple.jpg" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <img src="../apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2025.01 - 2025.06 (expected)</b>, AI/ML Research intern, Apple, Beijing.
   </div>
