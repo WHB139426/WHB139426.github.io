@@ -75,6 +75,13 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 💻 Experience
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <img src="../apple.jpg" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <div>
+    <b>2025.01 -</b>, AI/ML Research intern, University of California, Davis.
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2024.05 -</b>, Research intern, University of California, Davis.
