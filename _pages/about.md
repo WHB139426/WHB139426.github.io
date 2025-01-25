@@ -50,7 +50,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 
 🎖 Honors and Awards
 ------
-- *2024.10*, [China National Scholarship (Top 1%)](https://cs.fudan.edu.cn/9d/f0/c24257a695792/page.htm)
+- *2024.10*, [National Scholarship](https://cs.fudan.edu.cn/9d/f0/c24257a695792/page.htm)
   
 👩‍💻 Academic Services
 ------
