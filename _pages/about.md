@@ -77,21 +77,21 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2025.01 - 2025.06 (expected)</b>, AI/ML Research intern, Apple, Beijing.
+    <b>2025.01 - Now</b>, AI/ML Research intern, Apple, Beijing. Mentor: <a href="https://zjujefflai.github.io/">Jeff Lai</a>, Shiyu Li, Brian Feng
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2024.05 -</b>, Research intern, University of California, Davis.
+    <b>2024.05 - Now</b>, Research intern, University of California, Davis. Mentor: <a href="https://wilburone.github.io/">Lifu Huang</a>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
   <div>
-    <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai.
+    <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai. Mentor: <a href="https://scholar.google.com/citations?user=Wmnz-HYAAAAJ&hl=en">Jinjin Xu</a>
   </div>    
 </div> 
 
