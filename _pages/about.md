@@ -16,9 +16,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master's student at [CS Department, Fudan University](https://cs.fudan.edu.cn/) advised by Prof. [Weifeng Ge](https://www.weifengge.net/). Previously, I received my Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Visual Question Answering, Video Understanding, Embodied-AI, Image/Video Generation, etc.). I'm currently working with Prof. <a href="https://wilburone.github.io/">Lifu Huang</a> on building unified models for video understanding and generation.
-
-> I am looking for a potential Ph.D. position enrolling in Fall 2025. Welcome to reach out to me if interested :)
+I am a third-year Master's student at [CS Department, Fudan University](https://cs.fudan.edu.cn/) advised by Prof. [Weifeng Ge](https://www.weifengge.net/). Previously, I received my Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Visual Question Answering, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
+> I am looking for a potential U.S. Ph.D. position enrolling in Fall 2025. Welcome to reach out to me if interested :)
 
 <!--
 🔥 News
@@ -84,7 +83,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2024.05 - Now</b>, Research intern, University of California, Davis. Mentor: <a href="https://wilburone.github.io/">Lifu Huang</a>
+    <b>2024.05 - 2025.02</b>, Research intern, University of California, Davis. Mentor: <a href="https://wilburone.github.io/">Lifu Huang</a>
   </div>
 </div>
 
