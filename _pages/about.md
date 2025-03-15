@@ -21,6 +21,19 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 
 📝 Publications and Preprints
 ------
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](https://arxiv.org/abs/2410.03290)
+
+**Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
+
+<span style="color: #50ACC7">(Preprint)</span>  [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
+
+</div>
+</div>
+
 ### _Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models._ <span style="color: #50ACC7;">[Preprint]</span> [![arXiv](https://img.shields.io/badge/Arxiv-2410.03290-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.03290) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
 **Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
 
