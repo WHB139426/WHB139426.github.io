@@ -26,8 +26,12 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 <div class='paper-box-text' markdown="1">
   
 [Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](https://arxiv.org/abs/2410.03290)
+
 **Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
-<span style="color: #50ACC7"> (Preprint) </span>[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
+
+<span style="color: #50ACC7"> (Preprint) </span>
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
 </div>
 </div>
 
@@ -37,8 +41,12 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 <div class='paper-box-text' markdown="1">
   
 [Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering](https://arxiv.org/abs/2401.10711)
+
 **Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge.
-<span style="color: #50ACC7"> (ACM MM 2024) </span>[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GCG)
+
+<span style="color: #50ACC7"> (ACM MM 2024) </span>
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GCG)
 </div>
 </div>
 
@@ -48,8 +56,12 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 <div class='paper-box-text' markdown="1">
   
 [Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge](https://arxiv.org/abs/2401.10712)
+
 **Haibo Wang**, Weifeng Ge. 
-<span style="color: #50ACC7"> (ECCV 2024) </span>[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
+
+<span style="color: #50ACC7"> (ECCV 2024) </span>
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
 </div>
 </div>
 
