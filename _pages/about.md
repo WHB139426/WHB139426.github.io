@@ -54,14 +54,14 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 📖 Educations
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="../FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <img src="images/FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2022.09 - 2025.06 (expected)</b>, Graduate student, Fudan University, Shanghai.
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="../seu.png" alt="Southeast University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <img src="images/seu.png" alt="Southeast University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2018.09 - 2022.06</b>, Undergraduate student, Southeast University, Nanjing.
   </div>
@@ -70,21 +70,21 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 💻 Experience
 ------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="../apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <img src="images/apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2025.01 - Now</b>, AI/ML Research intern, Apple, Beijing. Mentor: <a href="https://zjujefflai.github.io/">Jeff Lai</a>, Shiyu Li, Brian Feng
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="../ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <img src="images/ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2024.05 - 2025.02</b>, Research intern, University of California, Davis. Mentor: <a href="https://wilburone.github.io/">Lifu Huang</a>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="../oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
+  <img src="images/oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
   <div>
     <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai. Mentor: <a href="https://scholar.google.com/citations?user=Wmnz-HYAAAAJ&hl=en">Jinjin Xu</a>
   </div>    
