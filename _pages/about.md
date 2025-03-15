@@ -78,32 +78,23 @@ Adapting Multimodal Large Language Models for Video Question Answering by Captur
 
 
 
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-  
 [Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
 
 Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang.
 
 <span style="color: #50ACC7"> **(CVPR 2024)** </span>
-</div>
-</div>
 
 
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
   
 [Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos](https://ieeexplore.ieee.org/document/10638077)
 
 Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. 
 
 <span style="color: #50ACC7"> **(IEEE TCSVT 2024)** </span>
-</div>
-</div>
 
 
-<div class='paper-box'>
+
+
 <div class='paper-box-text' markdown="1">
   
 [IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking](https://ieeexplore.ieee.org/document/10152562)
@@ -111,7 +102,6 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 **Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang.  
 
 <span style="color: #50ACC7"> **(CSCWD 2023)** </span>
-</div>
 </div>
 
 
