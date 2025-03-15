@@ -67,16 +67,14 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 
 
   
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
+
   
 Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments
 
 **Haibo Wang**, Chenghang Lai, Weifeng Ge.
 
 <span style="color: #50ACC7"> **(IEEE TMM 2025)** </span>
-</div>
-</div>
+
 
 
 
