@@ -67,7 +67,7 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 
 
   
-<div class='paper-box'><div class='paper-box-image'></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
   
 Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments
@@ -80,7 +80,7 @@ Adapting Multimodal Large Language Models for Video Question Answering by Captur
 
 
 
-<div class='paper-box'><div class='paper-box-image'></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
   
 [Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
@@ -93,7 +93,7 @@ Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, 
 
 
 
-<div class='paper-box'><div class='paper-box-image'></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
   
 [Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos](https://ieeexplore.ieee.org/document/10638077)
@@ -105,7 +105,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'></div>
+<div class='paper-box'>
 <div class='paper-box-text' markdown="1">
   
 [IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking](https://ieeexplore.ieee.org/document/10152562)
