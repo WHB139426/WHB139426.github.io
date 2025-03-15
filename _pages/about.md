@@ -126,7 +126,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2024.05 - 2025.02</b>, Research intern, University of California, Davis. Mentor: <a href="https://wilburone.github.io/">Lifu Huang</a>
+    <b>2024.05 - 2025.02</b>, Research intern, University of California, Davis. Mentor: Prof. <a href="https://wilburone.github.io/">Lifu Huang</a>
   </div>
 </div>
 
