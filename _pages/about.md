@@ -24,37 +24,79 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](https://arxiv.org/abs/2410.03290)
-
-**Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
-
-<span style="color: #50ACC7">(Preprint)</span>[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
-
-</div>
-</div>
-
-### _Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models._ <span style="color: #50ACC7;">[Preprint]</span> [![arXiv](https://img.shields.io/badge/Arxiv-2410.03290-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.03290) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
-**Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
-
-### _Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering._ <span style="color: #50ACC7;">[ACM Multimedia 2024]</span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GCG)
-**Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. 
-<!---![image](../acmmm24-gcg.png)-->
   
-### _Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge._ <span style="color: #50ACC7;">[ECCV 2024]</span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10712-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
+[Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](https://arxiv.org/abs/2410.03290)
+**Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
+<span style="color: #50ACC7"> (Preprint) </span>[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gcg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering](https://arxiv.org/abs/2401.10711)
+**Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge.
+<span style="color: #50ACC7"> (ACM MM 2024) </span>[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GCG)
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/qaprompts.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge](https://arxiv.org/abs/2401.10712)
 **Haibo Wang**, Weifeng Ge. 
+<span style="color: #50ACC7"> (ECCV 2024) </span>[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
+</div>
+</div>
 
-### _Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments._ <span style="color: #50ACC7;">[IEEE TMM 2025]</span> [[Paper]](https://whb139426.github.io/)
-**Haibo Wang**, Chenghang Lai, Weifeng Ge. 
 
-### _Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration._ <span style="color: #50ACC7;">[CVPR 2024]</span> [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
+  
+<div class='paper-box'><div class='paper-box-image'></div>
+<div class='paper-box-text' markdown="1">
+  
+Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments
+**Haibo Wang**, Chenghang Lai, Weifeng Ge.
+<span style="color: #50ACC7"> (IEEE TMM 2025) </span>
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'></div>
+<div class='paper-box-text' markdown="1">
+  
+[Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
 Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang.
+<span style="color: #50ACC7"> (CVPR 2024) </span>
+</div>
+</div>
 
-### _Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos._ <span style="color: #50ACC7;">[IEEE TCSVT 2024]</span> [[Paper]](https://ieeexplore.ieee.org/document/10638077)
+
+
+<div class='paper-box'><div class='paper-box-image'></div>
+<div class='paper-box-text' markdown="1">
+  
+[Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos](https://ieeexplore.ieee.org/document/10638077)
 Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. 
+<span style="color: #50ACC7"> (IEEE TCSVT 2024) </span>
+</div>
+</div>
 
-### _IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking._ <span style="color: #50ACC7;">[CSCWD 2023]</span> [[Paper]](https://ieeexplore.ieee.org/document/10152562)
-**Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang. 
+
+<div class='paper-box'><div class='paper-box-image'></div>
+<div class='paper-box-text' markdown="1">
+  
+[IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking](https://ieeexplore.ieee.org/document/10152562)
+**Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang.  
+<span style="color: #50ACC7"> (CSCWD 2023) </span>
+</div>
+</div>
+
+
 
 🎖 Honors and Awards
 ------
