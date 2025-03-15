@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Master's student at [CS Department, Fudan University](https://cs.fudan.edu.cn/) advised by Prof. [Weifeng Ge](https://www.weifengge.net/). Previously, I received my Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). 
+I am a third-year Master's student at [CS Department, Fudan University](https://cs.fudan.edu.cn/) advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and an incoming CS PhD student at the [University of California, Davis](https://cs.ucdavis.edu/), co-supervised by Prof. [Lifu Huang](https://wilburone.github.io/) and Prof. [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/). Previously, I received my Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). 
 
 My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Visual Question Answering, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
 
