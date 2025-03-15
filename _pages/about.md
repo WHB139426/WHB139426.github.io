@@ -22,7 +22,6 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Visual Question Answering, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
 
 # 📝 Publications and Preprints
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -96,15 +95,12 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 
 
 # 🎖 Honors and Awards
-------
 - *2024.10*, [National Scholarship](https://cs.fudan.edu.cn/9d/f0/c24257a695792/page.htm)
   
 # 👩‍💻 Academic Services
-------
 - Reviewer: ICLR 2025.
 
 # 📖 Educations
-------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
@@ -120,7 +116,6 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 </div>
 
 # 💻 Experience
-------
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
@@ -143,5 +138,4 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 </div> 
 
 # 🗺️ Visits
-------
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0'></script>
