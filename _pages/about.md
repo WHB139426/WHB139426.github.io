@@ -121,7 +121,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2022.09 - 2025.06 (expected)</b>, Graduate student, Fudan University, Shanghai.
+    <b>2022.09 - 2025.06</b>, Graduate student, Fudan University, Shanghai.
   </div>
 </div>
 
