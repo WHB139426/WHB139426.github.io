@@ -22,6 +22,22 @@ I am a third-year Master's student at [CS Department, Fudan University](https://
 My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Visual Question Answering, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
 
 # 📝 Publications and Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/streambridge.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://www.arxiv.org/abs/2505.05467)
+
+**Haibo Wang**, Bo Feng, Zhengfeng Lai, Mingze Xu, Shiyu Li, Weifeng Ge, Afshin Dehghan, Meng Cao, Ping Huang. 
+
+<span style="color: #50ACC7"> **(Preprint)** </span>
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2505.05467-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.05467)
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
