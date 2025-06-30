@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Haibo Wang (王海波)"
-description              : "hbwang22@m.fudan.edu.cn  hibwang@ucdavis.edu"
+description              : "hibwang@ucdavis.edu"
 repository               : "WHB139426/WHB139426.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haibo Wang (王海波)"
   avatar           : "images/me.png"
-  bio              : "B.S @ SEU -> M.S @ FDU -> Incoming Ph.D @ UC Davis"
+  bio              : "B.S @ SEU -> M.S @ FDU -> Ph.D @ UC Davis"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
