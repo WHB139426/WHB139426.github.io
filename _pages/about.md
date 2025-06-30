@@ -16,10 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
-I am a third-year Master's student at [CS Department, Fudan University](https://cs.fudan.edu.cn/) advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and an incoming CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), co-advised by Prof. [Lifu Huang](https://wilburone.github.io/) and Prof. [Junshan Zhang](https://faculty.engineering.ucdavis.edu/jzhang/). Previously, I received my Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). 
-
-My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Visual Question Answering, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
+I am an incoming CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Vision-Language Reasoning, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
 
 # 📝 Publications and Preprints
 
@@ -32,7 +29,7 @@ My research primarily focuses on **Multimodal Large Langauge Models** and their 
 
 <span style="color: #50ACC7"> **(Preprint)** </span>
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2505.05467-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.05467)
+[![arXiv](https://img.shields.io/badge/Arxiv-2505.05467-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.05467) [code is under apple's internal review]
 </div>
 </div>
 
@@ -119,6 +116,13 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 
 # 📖 Educations
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <img src="images/ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <div>
+    <b>2025.08 - Now</b>, PhD student, University of California, Davis.
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2022.09 - 2025.06</b>, Graduate student, Fudan University, Shanghai.
@@ -136,7 +140,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2025.01 - Now</b>, AI/ML Research intern, Apple, Beijing. Mentor: <a href="https://zjujefflai.github.io/">Jeff Lai</a>, Shiyu Li, Brian Feng
+    <b>2025.01 - 2025.07</b>, AI/ML Research intern, Apple, Beijing. Mentor: <a href="https://zjujefflai.github.io/">Jeff Lai</a>, Shiyu Li, Brian Feng
   </div>
 </div>
 
