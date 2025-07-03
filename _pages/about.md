@@ -118,7 +118,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2025.08 - Now</b>, PhD student, University of California, Davis.
+    <b>2025.08 - Now</b>, Doctoral student, University of California, Davis.
   </div>
 </div>
 
