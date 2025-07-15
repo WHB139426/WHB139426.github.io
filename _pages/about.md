@@ -74,7 +74,7 @@ I am an incoming CS Ph.D student at the [University of California, Davis](https:
 
 <span style="color: #50ACC7"> **(ECCV 2024)** </span>
 
-[![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
+[![arXiv](https://img.shields.io/badge/Arxiv-2401.10712-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
 </div>
 </div>
 
