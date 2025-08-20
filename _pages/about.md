@@ -42,7 +42,7 @@ I am an incoming CS Ph.D student at the [University of California, Davis](https:
 
 **Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
 
-<span style="color: #50ACC7"> **(Preprint)** </span>
+<span style="color: #50ACC7"> **(EMNLP 2025 Findings)** </span>
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2410.03290-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.03290) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
 </div>
