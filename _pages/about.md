@@ -81,7 +81,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 [Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments](https://ieeexplore.ieee.org/document/11153868)
 
-**Haibo Wang**, Chenghang Lai, Weifeng Ge. <span style="color: #50ACC7"> **(TMM 2025)** </span> 
+**Haibo Wang**, Chenghang Lai, Weifeng Ge. <span style="color: #50ACC7"> **(IEEE TMM 2025)** </span> 
 
 
 [Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
