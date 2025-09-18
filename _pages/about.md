@@ -27,7 +27,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Bo Feng, Zhengfeng Lai, Mingze Xu, Shiyu Li, Weifeng Ge, Afshin Dehghan, Meng Cao, Ping Huang. 
 
-<span style="color: #50ACC7"> **(Preprint)** </span>
+<span style="color: #50ACC7"> **(NeurIPS 2025)** </span>
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2505.05467-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.05467) [code is under apple's internal review]
 </div>
