@@ -103,6 +103,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 
 
 # 🎖 Honors and Awards
+- *2026.03*, [Outstanding Master Thesis Award of the Shanghai Computer Society](http://scs.sh.cn/#/article/501)
 - *2025.03*, [Shanghai Outstanding Graduates](https://cs.fudan.edu.cn/09/32/c24257a723250/page.htm)
 - *2024.10*, [National Scholarship](https://cs.fudan.edu.cn/9d/f0/c24257a695792/page.htm)
   
