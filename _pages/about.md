@@ -108,7 +108,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 - *2024.10*, [National Scholarship](https://cs.fudan.edu.cn/9d/f0/c24257a695792/page.htm)
   
 # 👩‍💻 Academic Services
-- Reviewer: ICLR 2025, 2026
+- Reviewer: ICLR 2025, 2026; NeurIPS 2026
 
 # 📖 Educations
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
