@@ -20,6 +20,21 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 # 📝 Publications and Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2604.00528)
+
+**Haibo Wang**, Zihao Lin, Zhiyang Xu, Lifu Huang. 
+
+<span style="color: #50ACC7"> **(Arxiv)** </span>
+
+[![arXiv](https://img.shields.io/badge/Arxiv-2604.00528-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.00528) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/TAB-Agent)
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/streambridge.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
