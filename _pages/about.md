@@ -27,7 +27,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Zihao Lin, Zhiyang Xu, Lifu Huang. 
 
-<span style="color: #50ACC7"> **(Arxiv)** </span>
+<span style="color: #50ACC7"> **(Arxiv Preprint)** </span>
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2604.00528-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.00528) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/TAB-Agent)
 </div>
