@@ -8,6 +8,25 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+.paper-box {
+  margin-bottom: 5px !important;
+  padding-bottom: 0px !important;
+}
+
+.paper-box-image {
+  max-width: 220px;
+  width: 100% !important;
+}
+
+.paper-box-image img {
+  width: 100% !important;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;   
+  border-radius: 4px; 
+}
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
