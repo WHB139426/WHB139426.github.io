@@ -12,7 +12,7 @@ redirect_from:
 .paper-box {
   margin-bottom: 15px !important; 
   display: flex !important;         
-  gap: 15px !important;              
+  gap: 5px !important;              
   align-items: flex-start !important; 
 }
 
@@ -29,7 +29,6 @@ redirect_from:
   border-radius: 4px; 
 }
 
-/* 右侧文字区域：占据剩下的所有空间 */
 .paper-box-text {
   flex-grow: 1 !important;
 }
