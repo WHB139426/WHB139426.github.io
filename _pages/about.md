@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 .paper-box {
-  margin-bottom: 3px !important;
+  margin-bottom: 0px !important;
   padding-bottom: 0px !important;
 }
 
