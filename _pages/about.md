@@ -10,12 +10,12 @@ redirect_from:
 
 <style>
 .paper-box {
-  margin-bottom: 5px !important;
+  margin-bottom: 3px !important;
   padding-bottom: 0px !important;
 }
 
 .paper-box-image {
-  max-width: 220px;
+  max-width: 200px;
   width: 100% !important;
 }
 
@@ -37,11 +37,11 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Vision-Language Reasoning, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
+I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Spatial Intelligence, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
 
 # 📝 Publications and Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tab.png' alt="sym" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tab.png' alt="sym" width="250px"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2604.00528)
@@ -54,7 +54,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/streambridge.png' alt="sym" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/streambridge.png' alt="sym" width="250px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://www.arxiv.org/abs/2505.05467)
@@ -67,7 +67,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="250px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](https://arxiv.org/abs/2410.03290)
@@ -80,7 +80,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gcg.png' alt="sym" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gcg.png' alt="sym" width="250px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering](https://arxiv.org/abs/2401.10711)
@@ -93,7 +93,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/qaprompts.png' alt="sym" width="300px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/qaprompts.png' alt="sym" width="250px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge](https://arxiv.org/abs/2401.10712)
