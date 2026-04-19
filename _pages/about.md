@@ -10,27 +10,40 @@ redirect_from:
 
 <style>
 .paper-box {
-  margin-bottom: 15px !important; 
-  display: flex !important;         
-  gap: 5px !important;              
-  align-items: flex-start !important; 
+  margin-top: 0px !important;     
+  margin-bottom: 8px !important;  
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  display: flex !important;       
+  align-items: flex-start !important;
+  gap: 15px !important;         
 }
 
 .paper-box-image {
-  width: 220px !important;      
-  min-width: 220px !important;  
-  flex-shrink: 0 !important;   
+  width: 200px !important;        
+  min-width: 200px !important;
+  flex-shrink: 0 !important;
 }
 
 .paper-box-image img {
-  width: 100% !important;      
-  aspect-ratio: 16 / 9;        
-  object-fit: cover;           
-  border-radius: 4px; 
+  width: 100% !important;    
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 4px;
 }
 
 .paper-box-text {
   flex-grow: 1 !important;
+}
+
+.paper-box-text p {
+  margin-top: 0px !important;     
+  margin-bottom: 4px !important;   
+}
+
+.paper-box-text a {
+  display: inline-block;
+  margin-bottom: 2px !important;
 }
 </style>
 
