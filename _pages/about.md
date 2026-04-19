@@ -15,24 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<style>
-.paper-box {
-  margin-bottom: 5px !important;
-  padding-bottom: 0px !important;
-}
 
-.paper-box-image {
-  max-width: 220px;
-  width: 100% !important;
-}
-
-.paper-box-image img {
-  width: 100% !important;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;   
-  border-radius: 4px; 
-}
-</style>
 
 <span class='anchor' id='about-me'></span>
 I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Vision-Language Reasoning, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
