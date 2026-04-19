@@ -46,9 +46,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
     <div><img src='images/tab.png' alt="Paper Image"></div>
   </div>
   <div class='paper-box-text'>
-    </div>
-</div>
-  
+
 [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2604.00528)
 
 **Haibo Wang**, Zihao Lin, Zhiyang Xu, Lifu Huang. 
@@ -64,8 +62,6 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
     <div><img src='images/streambridge.png' alt="Paper Image"></div>
   </div>
   <div class='paper-box-text'>
-    </div>
-</div>
   
 [StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://www.arxiv.org/abs/2505.05467)
 
