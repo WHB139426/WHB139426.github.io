@@ -16,11 +16,11 @@ redirect_from:
 
 .paper-box-image {
   max-width: 200px;
-  width: 100% !important;
+  width: 60% !important;
 }
 
 .paper-box-image img {
-  width: 100% !important;
+  width: 60% !important;
   aspect-ratio: 16 / 9;
   object-fit: cover;   
   border-radius: 4px; 
