@@ -41,11 +41,8 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 # 📝 Publications and Preprints
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><img src='images/tab.png' alt="Paper Image"></div>
-  </div>
-  <div class='paper-box-text'>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tab.png' alt="sym" width="300px"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2604.00528)
 
@@ -57,11 +54,8 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div><img src='images/streambridge.png' alt="Paper Image"></div>
-  </div>
-  <div class='paper-box-text'>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/streambridge.png' alt="sym" width="300px"></div></div>
+<div class='paper-box-text' markdown="1">
   
 [StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://www.arxiv.org/abs/2505.05467)
 
@@ -73,7 +67,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="400px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](https://arxiv.org/abs/2410.03290)
@@ -86,7 +80,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gcg.png' alt="sym" width="400px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gcg.png' alt="sym" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering](https://arxiv.org/abs/2401.10711)
@@ -99,7 +93,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/qaprompts.png' alt="sym" width="400px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/qaprompts.png' alt="sym" width="300px"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge](https://arxiv.org/abs/2401.10712)
