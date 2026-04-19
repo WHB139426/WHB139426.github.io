@@ -187,13 +187,6 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #5
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="images/ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
-  <div>
-    <b>2024.05 - 2025.02</b>, Research intern, University of California, Davis. Mentor: Prof. <a href="https://wilburone.github.io/">Lifu Huang</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
   <div>
     <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai. Mentor: <a href="https://scholar.google.com/citations?user=Wmnz-HYAAAAJ&hl=en">Jinjin Xu</a>
