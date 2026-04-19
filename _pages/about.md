@@ -15,13 +15,40 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<style>
+/* 1. 让论文条目上下极度紧凑 */
+.paper-box {
+  margin-bottom: 5px !important;  /* 原本可能是 20px 或更多，将其调至极小 */
+  padding-bottom: 0px !important; /* 去掉多余的下内边距 */
+}
+
+/* 2. 强制左侧图片区域统一大小 */
+.paper-box-image {
+  max-width: 220px;     /* 限制图片区域的最大宽度，防止像上次那样遮挡文字 */
+  width: 100% !important;
+}
+
+/* 3. 核心：强制所有图片统一比例，裁切填充 */
+.paper-box-image img {
+  width: 100% !important;
+  aspect-ratio: 16 / 9; /* 这里可以设置你想要的统一比例，截图看起来接近 16:9 */
+  object-fit: cover;    /* 裁切多余部分，保证内容不拉伸 */
+  border-radius: 4px;   /* 可选：加一点圆角，更精致 */
+}
+</style>
+
 <span class='anchor' id='about-me'></span>
 I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Vision-Language Reasoning, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
 
 # 📝 Publications and Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tab.png' alt="sym" width="400px"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/tab.png' alt="Paper Image"></div>
+  </div>
+  <div class='paper-box-text'>
+    </div>
+</div>
   
 [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2604.00528)
 
@@ -33,8 +60,13 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/streambridge.png' alt="sym" width="400px"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><img src='images/streambridge.png' alt="Paper Image"></div>
+  </div>
+  <div class='paper-box-text'>
+    </div>
+</div>
   
 [StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://www.arxiv.org/abs/2505.05467)
 
