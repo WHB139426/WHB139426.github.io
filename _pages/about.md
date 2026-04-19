@@ -10,20 +10,28 @@ redirect_from:
 
 <style>
 .paper-box {
-  margin-bottom: 0px !important;
-  padding-bottom: 0px !important;
+  margin-bottom: 15px !important; 
+  display: flex !important;         
+  gap: 15px !important;              
+  align-items: flex-start !important; 
 }
 
 .paper-box-image {
-  max-width: 200px;
-  width: 60% !important;
+  width: 220px !important;      
+  min-width: 220px !important;  
+  flex-shrink: 0 !important;   
 }
 
 .paper-box-image img {
-  width: 60% !important;
-  aspect-ratio: 16 / 9;
-  object-fit: cover;   
+  width: 100% !important;      
+  aspect-ratio: 16 / 9;        
+  object-fit: cover;           
   border-radius: 4px; 
+}
+
+/* 右侧文字区域：占据剩下的所有空间 */
+.paper-box-text {
+  flex-grow: 1 !important;
 }
 </style>
 
@@ -41,7 +49,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 # 📝 Publications and Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tab.png' alt="sym" width="250px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tab.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding](https://arxiv.org/abs/2604.00528)
@@ -54,7 +62,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/streambridge.png' alt="sym" width="250px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/streambridge.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [StreamBridge: Turning Your Offline Video Large Language Model into a Proactive Streaming Assistant](https://www.arxiv.org/abs/2505.05467)
@@ -67,7 +75,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym" width="250px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/grounded-videollm.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Grounded-VideoLLM: Sharpening Fine-grained Temporal Grounding in Video Large Language Models](https://arxiv.org/abs/2410.03290)
@@ -80,7 +88,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/gcg.png' alt="sym" width="250px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/gcg.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering](https://arxiv.org/abs/2401.10711)
@@ -93,7 +101,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/qaprompts.png' alt="sym" width="250px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/qaprompts.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge](https://arxiv.org/abs/2401.10712)
