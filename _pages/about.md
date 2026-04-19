@@ -16,24 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <style>
-/* 1. 让论文条目上下极度紧凑 */
 .paper-box {
-  margin-bottom: 5px !important;  /* 原本可能是 20px 或更多，将其调至极小 */
-  padding-bottom: 0px !important; /* 去掉多余的下内边距 */
+  margin-bottom: 5px !important;
+  padding-bottom: 0px !important;
 }
 
-/* 2. 强制左侧图片区域统一大小 */
 .paper-box-image {
-  max-width: 220px;     /* 限制图片区域的最大宽度，防止像上次那样遮挡文字 */
+  max-width: 220px;
   width: 100% !important;
 }
 
-/* 3. 核心：强制所有图片统一比例，裁切填充 */
 .paper-box-image img {
   width: 100% !important;
-  aspect-ratio: 16 / 9; /* 这里可以设置你想要的统一比例，截图看起来接近 16:9 */
-  object-fit: cover;    /* 裁切多余部分，保证内容不拉伸 */
-  border-radius: 4px;   /* 可选：加一点圆角，更精致 */
+  aspect-ratio: 16 / 9;
+  object-fit: cover;   
+  border-radius: 4px; 
 }
 </style>
 
