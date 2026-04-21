@@ -68,7 +68,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Zihao Lin, Zhiyang Xu, Lifu Huang. 
 
-<span style="color: #50ACC7"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2604.00528-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.00528) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/TAB-Agent)
+<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2604.00528-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2604.00528) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/TAB-Agent)
 </div>
 </div>
 
@@ -81,7 +81,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Bo Feng, Zhengfeng Lai, Mingze Xu, Shiyu Li, Weifeng Ge, Afshin Dehghan, Meng Cao, Ping Huang. 
 
-<span style="color: #50ACC7"> **(NeurIPS 2025)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2505.05467-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.05467)
+<span style="color: #b31b1b"> **(NeurIPS 2025)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2505.05467-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2505.05467)
 </div>
 </div>
 
@@ -94,7 +94,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Zhiyang Xu, Yu Cheng, Shizhe Diao, Yufan Zhou, Yixin Cao, Qifan Wang, Weifeng Ge, Lifu Huang. 
 
-<span style="color: #50ACC7"> **(EMNLP 2025 Findings)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2410.03290-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.03290) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
+<span style="color: #b31b1b"> **(EMNLP 2025 Findings)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2410.03290-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2410.03290) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/Grounded-Video-LLM)
 </div>
 </div>
 
@@ -107,7 +107,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge.
 
-<span style="color: #50ACC7"> **(ACM MM 2024)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GCG)
+<span style="color: #b31b1b"> **(ACM MM 2024)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GCG)
 </div>
 </div>
 
@@ -120,31 +120,31 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Weifeng Ge. 
 
-<span style="color: #50ACC7"> **(ECCV 2024)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10712-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
+<span style="color: #b31b1b"> **(ECCV 2024)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10712-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
 </div>
 </div>
 
 
 [Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments](https://ieeexplore.ieee.org/document/11153868)
 
-**Haibo Wang**, Chenghang Lai, Weifeng Ge. <span style="color: #50ACC7"> **(IEEE TMM 2025)** </span> 
+**Haibo Wang**, Chenghang Lai, Weifeng Ge. <span style="color: #b31b1b"> **(IEEE TMM 2025)** </span> 
 
 
 [Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
 
-Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. <span style="color: #50ACC7"> **(CVPR 2024)** </span>
+Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. <span style="color: #b31b1b"> **(CVPR 2024)** </span>
 
 
   
 [Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos](https://ieeexplore.ieee.org/document/10638077)
 
-Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #50ACC7"> **(IEEE TCSVT 2024)** </span>
+Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b31b1b"> **(IEEE TCSVT 2024)** </span>
 
 
   
 [IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking](https://ieeexplore.ieee.org/document/10152562)
 
-**Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang.  <span style="color: #50ACC7"> **(CSCWD 2023)** </span>
+**Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang.  <span style="color: #b31b1b"> **(CSCWD 2023)** </span>
 
 
 
