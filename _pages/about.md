@@ -57,7 +57,7 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/), where I worked with Prof. [Ding Ding](https://dingdingseu.mystrikingly.com/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Spatial Intelligence, Video Understanding, Embodied-AI, Unified Image/Video Generation, etc.).
+I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Spatial Intelligence, Video Understanding, Unified Multimodal Understanding and Generation, etc.).
 
 # 📝 Publications and Preprints
 
@@ -144,13 +144,6 @@ Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, 
 [Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos](https://ieeexplore.ieee.org/document/10638077)
 
 Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b31b1b"> **(IEEE TCSVT 2024)** </span>
-
-
-  
-[IVRSandplay: An Immersive Virtual Reality Sandplay System Coupled with Hand Motion Capture and Eye Tracking](https://ieeexplore.ieee.org/document/10152562)
-
-**Haibo Wang**, Ding Ding, Yuhao Liu, Chi Wang.  <span style="color: #b31b1b"> **(CSCWD 2023)** </span>
-
 
 
 # 🎖 Honors and Awards
