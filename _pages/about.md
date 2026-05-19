@@ -178,6 +178,13 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
 
 # 💻 Experience
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
+  <img src="images/adobe.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <div>
+    <b>2026.06 - 2026.09</b>, Research intern, Adobe Firefly, Seattle Mentor: <a href="https://xumingze0308.github.io/">Mingze Xu</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2025.01 - 2025.07</b>, AI/ML Research intern, Apple, Beijing. Mentor: <a href="https://zjujefflai.github.io/">Jeff Lai</a>, Shiyu Li, Brian Feng
