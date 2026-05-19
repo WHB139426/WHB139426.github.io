@@ -178,7 +178,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
 
 # 💻 Experience
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="images/adobe.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+  <img src="images/adobe.png" alt="Adobe" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
     <b>2026.06 - 2026.09</b>, Research intern, Adobe Firefly, Seattle Mentor: <a href="https://xumingze0308.github.io/">Mingze Xu</a>
   </div>
