@@ -59,7 +59,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Spatial Intelligence, Video Understanding, Unified Multimodal Understanding and Generation, etc.).
 
-# 📝 Publications and Preprints
+# 📝 First-author Publications and Preprints
 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/geovr.png' alt="sym"></div></div>
@@ -150,15 +150,18 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 **Haibo Wang**, Chenghang Lai, Weifeng Ge. <span style="color: #b31b1b"> **(IEEE TMM 2025)** </span> 
 
 
+<!-- 
 [Pixel level Semantic Correspondence through Layout aware Representation Learning and Multi scale Matching Integration](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf)
 
 Yixuan Sun\*, Zhangyue Yin\*, **Haibo Wang**, Yan Wang, Xipeng Qiu, Weifeng Ge, Wenqiang Zhang. <span style="color: #b31b1b"> **(CVPR 2024)** </span>
+-->
 
 
-  
+<!-- 
 [Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos](https://ieeexplore.ieee.org/document/10638077)
 
 Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b31b1b"> **(IEEE TCSVT 2024)** </span>
+-->
 
 
 # 🎖 Honors and Awards
