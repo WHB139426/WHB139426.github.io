@@ -61,6 +61,21 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 # 📝 Publications and Preprints
 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/geovr.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models](https://github.com/WHB139426/GeoVR-MLLM)
+
+**Haibo Wang**, Lifu Huang. 
+
+[![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GeoVR-MLLM)
+</div>
+</div>
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/tab.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
