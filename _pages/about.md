@@ -133,10 +133,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 [Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering](https://arxiv.org/abs/2401.10711)
 
-**Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge.
-
-<span style="color: #b31b1b"> **(ACM MM 2024)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) 
-[![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GCG)
+**Haibo Wang**, Chenghang Lai, Yixuan Sun, Weifeng Ge. <span style="color: #b31b1b"> **(ACM MM 2024)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10711-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10711) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GCG)
 
 
 <!-- 
@@ -156,8 +153,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 [Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge](https://arxiv.org/abs/2401.10712)
 
-**Haibo Wang**, Weifeng Ge. <span style="color: #b31b1b"> **(ECCV 2024)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10712-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) 
-[![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
+**Haibo Wang**, Weifeng Ge. <span style="color: #b31b1b"> **(ECCV 2024)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2401.10712-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2401.10712) [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/QA-Prompts)
 
 
 [Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments](https://ieeexplore.ieee.org/document/11153868)
