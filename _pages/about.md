@@ -65,7 +65,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/geovr.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models](https://github.com/WHB139426/GeoVR-MLLM)
+[Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models](https://arxiv.org/pdf/2606.05833)
 
 **Haibo Wang**, Lifu Huang. 
 
