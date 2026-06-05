@@ -69,6 +69,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Lifu Huang. 
 
+<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2606.05833-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2606.05833) 
 [![](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/WHB139426/GeoVR-MLLM)
 </div>
 </div>
