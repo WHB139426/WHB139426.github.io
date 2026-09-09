@@ -217,14 +217,14 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
   <div>
-    <b>2025.01 - 2025.07</b>, AI/ML Research intern, Apple, Beijing. Mentor: Shiyu Li, Brian Feng, <a href="https://zjujefflai.github.io/">Jeff Lai</a>, <a href="https://xumingze0308.github.io/">Mingze Xu</a>
+    <b>2025.01 - 2025.07</b>, Research intern, Apple AI/ML, Beijing. Mentor: Shiyu Li, Brian Feng, <a href="https://zjujefflai.github.io/">Jeff Lai</a>, <a href="https://xumingze0308.github.io/">Mingze Xu</a>
   </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
   <div>
-    <b>2024.05 - 2024.07</b>, Intern, OPPO AI Research, Shanghai. Mentor: <a href="https://scholar.google.com/citations?user=Wmnz-HYAAAAJ&hl=en">Jinjin Xu</a>
+    <b>2024.05 - 2024.07</b>, Research Intern, OPPO AI Research, Shanghai. Mentor: <a href="https://scholar.google.com/citations?user=Wmnz-HYAAAAJ&hl=en">Jinjin Xu</a>
   </div>    
 </div> 
 
