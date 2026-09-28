@@ -236,7 +236,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
 <div style="display: flex; align-items: center; margin-bottom: 5px;">
   <img src="images/oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
   <div>
-    <b>2024.05 - 2024.07</b>, Research Intern, OPPO AI Research, Shanghai. Mentor: <a href="https://scholar.google.com/citations?user=Wmnz-HYAAAAJ&hl=en">Jinjin Xu</a>
+    <b>2024.05 - 2024.07</b>, Research intern, OPPO AI Research, Shanghai. Mentor: <a href="https://scholar.google.com/citations?user=Wmnz-HYAAAAJ&hl=en">Jinjin Xu</a>
   </div>    
 </div> 
 
