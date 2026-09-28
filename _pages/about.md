@@ -68,7 +68,7 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 **Haibo Wang**, Jiteng Mu, Jialu Li, Jingru Yi, Yuanjun Xiong, Jianming Zhang, Lifu Huang, Mingze Xu. 
 
-<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-xxxx.xxxxx-b31b1b.svg?logo=arXiv)](https://github.com/WHB139426/WHB139426.github.io/blob/main/images/OmniSeek.pdf) 
+<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-0000.00000-b31b1b.svg?logo=arXiv)](https://github.com/WHB139426/WHB139426.github.io/blob/main/images/OmniSeek.pdf) 
 [code is under Adobe's internal review]
 </div>
 </div>
