@@ -61,6 +61,18 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 
 # 📝 First-author Publications and Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/omniseek.png' alt="sym"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://github.com/WHB139426/WHB139426.github.io/blob/main/images/OmniReasoning_CVPR2027.pdf)
+
+**Haibo Wang**, Jiteng Mu, Jialu Li, Jingru Yi, Yuanjun Xiong, Jianming Zhang, Lifu Huang, Mingze Xu. 
+
+<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2606.05833-b31b1b.svg?logo=arXiv)](https://github.com/WHB139426/WHB139426.github.io/blob/main/images/OmniReasoning_CVPR2027.pdf) 
+[code is under Adobe's internal review]
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/geovr.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
