@@ -64,11 +64,11 @@ I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdav
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/omniseek.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://arxiv.org/abs/2606.05833)
+[OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://arxiv.org/abs/2610.02181)
 
 **Haibo Wang**, Jiteng Mu, Jialu Li, Jingru Yi, Yuanjun Xiong, Jianming Zhang, Lifu Huang, Mingze Xu. 
 
-<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2606.05833-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2606.05833) 
+<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2610.02181-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2610.02181) 
 [code is under Adobe's internal review]
 </div>
 </div>
