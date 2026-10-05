@@ -3,13 +3,14 @@
 
 <div class="publication-row {% unless include.hide_bottom_border %}border-bottom border-gray{% endunless %}">
     {% if item.cover %}
-    <div class="publication-cover">
+    <div class="publication-cover" style="flex: 0 0 240px; width: 240px; max-width: 100%;">
         {% if paper_url %}
         <a href="{{ paper_url }}" target="_blank" rel="noopener noreferrer">
         {% endif %}
             <img src="{{ item.cover | relative_url }}"
                  alt="{{ item.title }}"
-                 loading="lazy">
+                 loading="lazy"
+                 style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 6px;">
         {% if paper_url %}
         </a>
         {% endif %}
