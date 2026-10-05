@@ -65,21 +65,25 @@ experience:
     logo: /images/adobe.png
     position: >-
       Research Intern, Seattle <br/>
-      Mentor: Mingze Xu
+      Mentor:
+      <a href="https://xumingze0308.github.io/" target="_blank">Mingze Xu</a>
     date: Jun. 2026 - Sep. 2026
 
   - name: Apple AI/ML
     logo: /images/apple.png
     position: >-
       Research Intern, Beijing <br/>
-      Mentors: Shiyu Li, Brian Feng, Jeff Lai, and Mingze Xu
+      Mentors: Shiyu Li, Brian Feng,
+      <a href="https://zjujefflai.github.io/" target="_blank">Jeff Lai</a>,
+      and <a href="https://xumingze0308.github.io/" target="_blank">Mingze Xu</a>
     date: Jan. 2025 - Jul. 2025
 
   - name: OPPO AI Research
     logo: /images/oppo.png
     position: >-
       Research Intern, Shanghai <br/>
-      Mentor: Jinjin Xu
+      Mentor:
+      <a href="https://scholar.google.com/citations?user=RMSuNFwAAAAJ" target="_blank">Jinjin Xu</a>
     date: May 2024 - Jul. 2024
 
 awards:
