@@ -45,6 +45,22 @@ redirect_from:
   display: inline-block;
   margin-bottom: 2px !important;
 }
+
+.resume-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 4px;
+  line-height: 1.4;
+}
+
+.resume-row > img {
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -197,44 +213,44 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
 - Reviewer: ICLR 2025-2027; NeurIPS 2026; COLM 2026; AAAI 2027
 
 # 📖 Educations
-<div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="images/ucdavis.png" alt="UC Davis Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+<div class="resume-row">
+  <img src="images/ucdavis.png" alt="UC Davis Logo">
   <div>
     <b>2025.09 - Now</b>, Doctoral student, University of California, Davis.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="images/FDU.png" alt="Fudan University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+<div class="resume-row">
+  <img src="images/FDU.png" alt="Fudan University Logo">
   <div>
     <b>2022.09 - 2025.06</b>, Graduate student, Fudan University, Shanghai.
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="images/seu.png" alt="Southeast University Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+<div class="resume-row">
+  <img src="images/seu.png" alt="Southeast University Logo">
   <div>
     <b>2018.09 - 2022.06</b>, Undergraduate student, Southeast University, Nanjing.
   </div>
 </div>
 
 # 💻 Experience
-<div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="images/adobe.png" alt="Adobe" style="width: 70px; height: 70px; margin-right: 20px;">
+<div class="resume-row">
+  <img src="images/adobe.png" alt="Adobe">
   <div>
     <b>2026.06 - 2026.09</b>, Research intern, Adobe Firefly, Seattle. Mentor: <a href="https://xumingze0308.github.io/">Mingze Xu</a>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="images/apple.png" alt="Apple Logo" style="width: 70px; height: 70px; margin-right: 20px;">
+<div class="resume-row">
+  <img src="images/apple.png" alt="Apple Logo">
   <div>
     <b>2025.01 - 2025.07</b>, Research intern, Apple AI/ML, Beijing. Mentor: Shiyu Li, Brian Feng, <a href="https://zjujefflai.github.io/">Jeff Lai</a>, <a href="https://xumingze0308.github.io/">Mingze Xu</a>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 5px;">
-  <img src="images/oppo.png" alt="OPPO" style="width: 90px; height: 60px; margin-right: 20px;">
+<div class="resume-row">
+  <img src="images/oppo.png" alt="OPPO">
   <div>
     <b>2024.05 - 2024.07</b>, Research intern, OPPO AI Research, Shanghai. Mentor: <a href="https://scholar.google.com/citations?user=Wmnz-HYAAAAJ&hl=en">Jinjin Xu</a>
   </div>    
