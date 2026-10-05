@@ -42,7 +42,7 @@ education:
     position: >-
       Computer Science <br/>
       Ph.D. Student <br/>
-      Advisor: Prof. Lifu Huang
+      Advisor: <a href="https://wilburone.github.io/" target="_blank">Lifu Huang</a>
     date: Sep. 2025 - Present
 
   - name: Fudan University
@@ -50,7 +50,7 @@ education:
     position: >-
       Computer Science <br/>
       Master's Degree <br/>
-      Advisor: Prof. Weifeng Ge
+      Advisor: <a href="https://www.weifengge.net/" target="_blank">Weifeng Ge</a>
     date: Sep. 2022 - Jun. 2025
 
   - name: Southeast University
