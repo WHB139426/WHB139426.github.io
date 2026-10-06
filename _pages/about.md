@@ -209,8 +209,6 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
 - *2025.03*, [Shanghai Outstanding Graduates](https://cs.fudan.edu.cn/09/32/c24257a723250/page.htm)
 - *2024.10*, [National Scholarship](https://cs.fudan.edu.cn/9d/f0/c24257a695792/page.htm)
   
-# 👩‍💻 Academic Services
-- Reviewer: ICLR 2025-2027; NeurIPS 2026; COLM 2026; AAAI 2027
 
 # 📖 Educations
 <div class="resume-row">
@@ -234,6 +232,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
   </div>
 </div>
 
+
 # 💻 Experience
 <div class="resume-row">
   <img src="images/adobe.png" alt="Adobe">
@@ -256,6 +255,11 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
   </div>    
 </div> 
 
+
+# 👩‍💻 Academic Services
+- Reviewer: ICLR 2025-2027; NeurIPS 2026; COLM 2026; AAAI 2027
+
+  
 <!-- 
 # 🗺️ Visits
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=n&d=RfrlB4yHoGFLWWRKfUg--bpSN8T7BbPLW5zCwL9DcR0'></script>
