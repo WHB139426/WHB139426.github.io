@@ -73,7 +73,9 @@ redirect_from:
 
 
 <span class='anchor' id='about-me'></span>
-I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/). My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Spatial Intelligence, Video Understanding, Unified Multimodal Understanding and Generation, etc.).
+I am a CS Ph.D student at the [University of California, Davis](https://cs.ucdavis.edu/), advised by Prof. [Lifu Huang](https://wilburone.github.io/). Previously, I received my Master's Degree at [CS Department, Fudan University](https://cs.fudan.edu.cn/), advised by Prof. [Weifeng Ge](https://www.weifengge.net/), and Bachelor’s Degree in the [CS Department, Southeast University](https://cse.seu.edu.cn/). 
+
+My research primarily focuses on **Multimodal Large Langauge Models** and their broad applications (Spatial Intelligence, Video Understanding, Unified Multimodal Understanding and Generation, Multimodal Agent, etc.).
 
 # 📝 First-author Publications and Preprints
 
