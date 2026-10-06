@@ -55,8 +55,8 @@ redirect_from:
 }
 
 .resume-row > img {
-  width: 44px;
-  height: 44px;
+  width: 37px;
+  height: 37px;
   flex-shrink: 0;
   object-fit: contain;
 }
