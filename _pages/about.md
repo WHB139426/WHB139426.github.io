@@ -82,12 +82,13 @@ My research primarily focuses on **Multimodal Large Langauge Models** and their 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/omniseek.png' alt="sym"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://arxiv.org/abs/2610.02181)
+[OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning](https://github.com/WHB139426/WHB139426.github.io/blob/main/images/OmniSeek.pdf)
 
 **Haibo Wang**, Jiteng Mu, Jialu Li, Jingru Yi, Yuanjun Xiong, Jianming Zhang, Lifu Huang, Mingze Xu. 
 
-<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2610.02181-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2610.02181) 
-[code is under Adobe's internal review]
+<!--<span style="color: #b31b1b"> **(Arxiv Preprint)** </span> [![arXiv](https://img.shields.io/badge/Arxiv-2610.02181-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2610.02181)--> 
+
+[Under Adobe's internal review]
 </div>
 </div>
 
