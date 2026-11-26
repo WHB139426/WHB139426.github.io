@@ -248,7 +248,7 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
 
 
 # 👩‍💻 Academic Services
-- Reviewer: ICLR 2025-2027; NeurIPS 2026; COLM 2026; AAAI 2027
+- Reviewer: ICLR 2025-2027; NeurIPS 2026; COLM 2026; AAAI 2027; ICML 2027; CVPR 2027
 
   
 <!-- 
