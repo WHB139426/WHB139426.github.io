@@ -228,21 +228,21 @@ Chenghang Lai, **Haibo Wang**, Weifeng Ge, Xiangyang Xue. <span style="color: #b
 <div class="resume-row">
   <img src="images/adobe.png" alt="Adobe">
   <div>
-    <b>2026.06 - 2026.09</b>, Research intern, Adobe Firefly, Seattle.
+    <b>2026.06 - 2026.09</b>, Research intern, Adobe, Seattle.
   </div>
 </div>
 
 <div class="resume-row">
   <img src="images/apple.png" alt="Apple Logo">
   <div>
-    <b>2025.01 - 2025.07</b>, Research intern, Apple AI/ML, Beijing.
+    <b>2025.01 - 2025.07</b>, Research intern, Apple, Beijing.
   </div>
 </div>
 
 <div class="resume-row">
   <img src="images/oppo.png" alt="OPPO">
   <div>
-    <b>2024.05 - 2024.07</b>, Research intern, OPPO AI Research, Shanghai.
+    <b>2024.05 - 2024.07</b>, Research intern, OPPO, Shanghai.
   </div>    
 </div> 
 
